@@ -2,4 +2,5 @@
 
 for showing work
 
-![Website example](/public/images/portfolio top.png)
+![Website example](/portfolio-top.png)
+![Website example](/portfolio-work.png)
