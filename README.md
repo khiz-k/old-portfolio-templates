@@ -1,5 +1,7 @@
 # old-portfolios (2017-2019)
 
+## Made with React, node, html, css/scss, js, jquery, some php
+
 ![Website example](/html-css-js-jquery/portfolio-header.png)
 
 ![Website example](/html-css-js-jquery/portfolio-projects.png)
